@@ -26,7 +26,7 @@ export default function Navbar() {
         {/* Branding / Logo */}
         <h1 className="font-extrabold text-xl text-white">
             <a href="#" className="hover:opacity-90">
-                <span className={ACCENT_CLASSES['text-cyan-500']}>E</span>MAAN <span className={ACCENT_CLASSES['text-cyan-500']}>S</span>HEHBAZ
+                <span className={ACCENT_CLASSES['text-cyan-500']}>E</span>MAN <span className={ACCENT_CLASSES['text-cyan-500']}>S</span>HEHBAZ
             </a>
         </h1>
 
