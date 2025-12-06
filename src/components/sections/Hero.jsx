@@ -8,7 +8,7 @@ const mockProfile = {
     expertise: "AI AUTOMATION ENGINEER", 
     // UPDATED: Top 4 skills from Eman's CV
     skills: ["Python", "LangChain", "n8n", "LLMs"], 
-    resume: "Eman-CV.pdf", // UPDATED: Resume link hint
+    resume: "/Eman-CV.pdf", // UPDATED: Resume link hint
     linkedin: "https://linkedin.com/in/eman-shahbaz", 
     github: "https://github.com/eman-shahbaz" // UPDATED: GitHub Placeholder
 };
